@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/wilodorico/second-frontend-challenge)
-- Live Site URL: [Add live site URL here](https://interactive-rating-component-challenge.netlify.app/)
+- Solution URL: [click here](https://github.com/wilodorico/second-frontend-challenge)
+- Live Site URL: [click here](https://interactive-rating-component-challenge.netlify.app/)
 
 ## My process
 
