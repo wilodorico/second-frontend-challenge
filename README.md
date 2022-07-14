@@ -57,13 +57,13 @@ I learned to do conditional rendering, to manage the state
 
 ### Useful resources
 
-- [Example resource 1](https://www.styled-components.com) - This helped me for render props css 
+- [styled-components](https://www.styled-components.com) - This helped me for render props css 
 
 ## Author
 
-- Website - [Add your name here](https://www.wilodorico.fr)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/wilodorico)
-- Twitter - [@yourusername](https://www.twitter.com/wilodorico)
+- Website - [@wilodorico](https://www.wilodorico.fr)
+- Frontend Mentor - [@wilodorico](https://www.frontendmentor.io/profile/wilodorico)
+- Twitter - [@wilodorico](https://www.twitter.com/wilodorico)
 
 
 
