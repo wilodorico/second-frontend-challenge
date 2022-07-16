@@ -69,4 +69,4 @@ I learned to do conditional rendering, to manage the state
 
 ## Acknowledgments
 
-Thanks you all ;)
+Thank you all ;)
